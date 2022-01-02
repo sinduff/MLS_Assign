@@ -32,6 +32,29 @@ Files contained in the folder include;
 
 ***
 
+## Viewing the Jupyter Notebooks
+
+### Option 1 - Run the Notebooks from the Command Line
+To run the code in this repository, Python 3 must be installed, and can be downloaded at  https://www.python.org/downloads/
+
+Otherwise, the Anaconda Python distribution can be used, and is freely available to download at  https://www.anaconda.com/distribution/
+
+### Option 2 - View the Notebooks in a Browser
+As an alternative to installing software on your PC, it is possible to view the contents of the Jupyter Notebooks can be viewed in the internet browser using the link https://github.com/sinduff/MLS_Assign and selecting the relevnat file.
+
+### Option 3 - View the Notebooks in NBViewer
+Click on the link to view the relevant Jupyter Notebook
+
+Notebook 1 - __Scikit-learn__  
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]()
+
+
+Notebook 2 - __Scipy-stats__  
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/sinduff/MLS_Assign/blob/main/Scipy-stats.ipynb)
+
+
+***
+
 ## Structure of Jupyter Notebooks
 Each of the Jupyter notebooks contain the following structure
 
@@ -48,22 +71,4 @@ The notebooks themselves will contain a number of cells with the python code inc
 
 ***
 
-## Viewing the Jupyter Notebooks
-
-### Option 1 - Run the Notebooks from the Command Line
-To run the code in this repository, Python 3 must be installed, and can be downloaded at  https://www.python.org/downloads/
-
-Otherwise, the Anaconda Python distribution can be used, and is freely available to download at  https://www.anaconda.com/distribution/
-
-### Option 2 - View the Notebooks in a Browser
-As an alternative to installing software on your PC, it is possible to view the contents of the Jupyter Notebooks can be viewed in the internet browser using the link https://github.com/sinduff/MLS_Assign and selecting the relevnat file.
-
-### Option 3 - View the Notebooks in NBViewer
-Click on the link to view the relevant Jupyter Notebook
-
-Notebook 1 - Scikit-learn
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/...)
-
-Notebook 2 - Scipy-stats
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/...)
 
