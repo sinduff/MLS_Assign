@@ -30,6 +30,16 @@ Files contained in the folder include;
 - Other files 
 	-	contains other files used in the creation of the notebooks, test of Gaussian output / Install Tabulate etc.
 
+The repository can be viewed on;
+
+### Option 1 - in the computer browser
+The contents of the Jupyter Notebooks can be viewed in the internet browser using the link https://github.com/sinduff/MLS_Assign and selecting the relevnat file.
+
+### Option 2 - using nbviewer
+Click on the link to view repository
+
+![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/sinduff/MLS_Assign/tree/main/)
+
 ***
 
 ## Viewing the Jupyter Notebooks
@@ -46,7 +56,7 @@ As an alternative to installing software on your PC, it is possible to view the 
 Click on the link to view the relevant Jupyter Notebook
 
 Notebook 1 - __Scikit-learn__  
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]()
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/sinduff/MLS_Assign/blob/main/Scikit-learn.ipynb)
 
 
 Notebook 2 - __Scipy-stats__  
